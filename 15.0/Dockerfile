@@ -1,5 +1,5 @@
 FROM debian:bullseye-slim
-MAINTAINER Odoo S.A. <info@odoo.com>
+LABEL key="Marce" key="Librematica"
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
